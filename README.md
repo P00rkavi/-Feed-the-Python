@@ -1,7 +1,6 @@
 # 
 🐍Feed the Python
-    A classic Snake game replica built in Python using the turtle graphics module. This project is part of the 100 Days of Code: The Complete Python Pro Bootcamp by Angela Yu on Udemy.
-
+    A classic Snake game replica built in Python using the turtle graphics module. 
 🎮 Game Overview
     In ByteChase, control the snake as it chases and eats food to grow longer. The challenge increases as the snake grows — avoid colliding with the walls or yourself!
 
